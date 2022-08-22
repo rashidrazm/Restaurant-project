@@ -1,13 +1,13 @@
 import images from './images';
 
-const wines = [
+const teas = [
   {
-    title: 'Chapel Hill Shiraz',
+    title: 'Green Tea',
     price: '$56',
     tags: 'AU | Bottle',
   },
   {
-    title: 'Catena Malbee',
+    title: 'Red Tea',
     price: '$59',
     tags: 'AU | Bottle',
   },
@@ -28,9 +28,9 @@ const wines = [
   },
 ];
 
-const cocktails = [
+const juices = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Apple Juice',
     price: '$20',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
@@ -79,4 +79,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { teas, juices, awards };
