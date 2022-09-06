@@ -19,12 +19,12 @@ const teas = [
   {
     title: 'Rhino Pale Ale',
     price: '$31',
-    tags: 'CA | 750 ml',
+    tags: 'CA | 750 ml | Bottle ',
   },
   {
     title: 'Irish Guinness',
     price: '$26',
-    tags: 'IE | 750 ml',
+    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },
 ];
 
